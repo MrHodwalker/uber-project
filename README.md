@@ -5,9 +5,9 @@ Platzi course: "Curso de Programación Orientada a Objetos: POO" https://platzi.
 
 In this project we will be recreating the platform "Uber" in four different programming languages.
 
-###Java
-###Python
-###PHP
-###JavaScript
+### Java
+### Python
+### PHP
+### JavaScript
 
-This is my first OOP project.
+This is my first OOP project. And first view of Java and PHP languages.
