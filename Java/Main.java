@@ -3,8 +3,12 @@ class Main {
         System.out.println("Hello World");
 
         UberX uberX = new UberX("XYZ789", new Account("Ernesto Cantillo", "EC1234"), "Susuki", "Swift");
-        uberX.setPassenger(3);
+        uberX.setPassenger(4);
         uberX.printDataCar();
+
+        UberVan uberVan = new UberVan("ABC1234", new Account("Jeff Bezos", "JB6789"), "Honda", "Civic");
+        uberVan.setPassenger(6);
+        uberVan.printDataCar();
 
         /*Car car = new Car("XYZ789", new Account("Ernesto Cantillo", "EC1234"));
         car.passenger = 4;
